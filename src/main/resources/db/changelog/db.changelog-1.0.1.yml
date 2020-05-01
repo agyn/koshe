@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id: test
+      author: Nurlan Tembayev
+      changes:
+            sql: select * from databasechangelog;
